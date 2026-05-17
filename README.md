@@ -22,9 +22,9 @@ Here are some ideas to get you started:
   Passionate about clean architecture, meaningful products, and shipping things that work.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pemadb&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p> -->
 
 ---
 
