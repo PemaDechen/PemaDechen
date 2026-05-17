@@ -73,15 +73,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📌 Currently Building
 
-| Project | Stack | Status |
-|---------|-------|--------|
-| 🔨 Amazing App (coming soon) | Next.js · TypeScript · Node.js · PostgreSQL | 🟢 In Progress |
-
-> More projects coming soon — watch this space!
-
----
 
 ## 📊 GitHub Stats
 
@@ -109,15 +101,12 @@ AWS Architecture    █████████░░░░░░░  60%
 ## 📬 Let's Connect
 
 <p>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/pema-dechen-bhutia/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_LINK">
+  <!-- <a href="https://YOUR_PORTFOLIO_LINK">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
