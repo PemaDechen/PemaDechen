@@ -86,17 +86,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=default" />
 </p> -->
 
----
-
-## 🌱 Currently Deepening
-
-```
-Next.js App Router  ████████████░░░░  82%
-TypeScript          ███████████░░░░░  75%
-AWS Architecture    █████████░░░░░░░  60%
-```
-
----
 
 ## 📬 Let's Connect
 
