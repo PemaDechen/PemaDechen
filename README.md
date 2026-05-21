@@ -66,7 +66,7 @@ const pema = {
 
 ## ⏱️ Coding Activity
 <div align="center">
-  <img src="https://github-readme-stats-woad-eight-84.vercel.app/api/wakatime?username=@pemadechen&hide_border=true&title_color=1D9E75&layout=compact&bg_color=ffffff"/>
+  <img src="https://github-readme-stats-woad-eight-84.vercel.app/api/wakatime?username=@PemaDechen&hide_border=true&title_color=1D9E75&layout=compact&bg_color=ffffff"/>
 </div>
 
 ---
