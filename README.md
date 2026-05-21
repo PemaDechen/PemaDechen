@@ -55,16 +55,13 @@ const pema = {
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PemaDechen&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=1D9E75&icon_color=185FA5" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PemaDechen&layout=compact&hide_border=true&title_color=1D9E75" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PemaDechen&show_icons=true&hide_border=true&count_private=true&title_color=1D9E75&icon_color=185FA5&bg_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PemaDechen&layout=compact&hide_border=true&title_color=1D9E75&bg_color=ffffff" height="165"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PemaDechen&hide_border=true&ring=1D9E75&fire=185FA5&currStreakLabel=1D9E75" />
+  <img src="https://streak-stats.demolab.com?user=PemaDechen&hide_border=true&ring=1D9E75&fire=185FA5&currStreakLabel=1D9E75&background=ffffff"/>
 </div>
-
 ---
 
 ## ⏱️ Coding Activity
