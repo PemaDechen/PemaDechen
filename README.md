@@ -56,8 +56,8 @@ const pema = {
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PemaDechen&show_icons=true&hide_border=true&count_private=true&title_color=1D9E75&icon_color=185FA5&bg_color=ffffff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PemaDechen&layout=compact&hide_border=true&title_color=1D9E75&bg_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats-woad-eight-84.vercel.app/api?username=PemaDechen&show_icons=true&hide_border=true&count_private=true&title_color=1D9E75&icon_color=185FA5&bg_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats-woad-eight-84.vercel.app/api/top-langs/?username=PemaDechen&layout=compact&hide_border=true&title_color=1D9E75&bg_color=ffffff" height="165"/>
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=PemaDechen&hide_border=true&ring=1D9E75&fire=185FA5&currStreakLabel=1D9E75&background=ffffff"/>
@@ -66,7 +66,7 @@ const pema = {
 
 ## ⏱️ Coding Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@PemaDechen&hide_border=true&title_color=1D9E75&layout=compact&bg_color=ffffff"/>
+  <img src="https://github-readme-stats-woad-eight-84.vercel.app/api/wakatime?username=@pemadechen&hide_border=true&title_color=1D9E75&layout=compact&bg_color=ffffff"/>
 </div>
 
 ---
