@@ -1,39 +1,27 @@
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:185FA5&height=200&section=header&text=Pema%20Dechen%20Bhutia&fontSize=40&fontColor=white&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%F0%9F%8F%94%EF%B8%8F%20Sikkim%2C%20India&descAlignY=55&descSize=18)
 
-<!--
-**PemaDechen/PemaDechen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/pemadecheb?label=Followers&style=social)](https://github.com/pemadecheb)
+[![Profile Views](https://komarev.com/ghpvc/?username=pemadecheb&color=1D9E75&style=flat)](https://github.com/pemadecheb)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi, I'm Pema Dechen Bhutia 👋</h1>
-
-<p align="center">
-  <b>Full-Stack Developer · Sikkim, India 🏔️</b><br/>
-  Building ambitious applications from frontend to cloud.<br/>
-  Passionate about clean architecture, meaningful products, and shipping things that work.
-</p>
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pemadb&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p> -->
+</div>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 🔨 I'm currently **building amazing full-stack applications**
-- 🌱 Deepening expertise in **Next.js App Router, TypeScript & modern full-stack architecture**
-- 🤝 Open to **collaborating on interesting projects**
-- ⚡ I believe in **learning in public and shipping in silence**
+```javascript
+const pema = {
+  role: "Full-Stack Developer",
+  location: "Sikkim, India 🏔️",
+  mission: "Building things that matter, one commit at a time",
+  currentlyBuilding: "Blue Collar Service Marketplace",
+  currentlyLearning: ["Next.js App Router", "TypeScript", "System Design"],
+  values: ["Service", "Growth", "Consistency"],
+  quote: "Carving my own path, no matter how uncomfortable"
+}
+```
 
 ---
 
@@ -51,7 +39,6 @@ Here are some ideas to get you started:
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
 
 **Database**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
@@ -59,47 +46,33 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
 
-**Cloud & Integration**
+**Cloud & Tools**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
-
-**Tools & Practices**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 
 ---
 
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pemadecheb&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=1D9E75&icon_color=185FA5" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemadecheb&layout=compact&hide_border=true&title_color=1D9E75" height="165"/>
+</div>
 
-
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=default" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=default" />
-</p> -->
-
-
-## 📬 Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/pema-dechen-bhutia/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <!-- <a href="https://YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
-  </a> -->
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pemadecheb&hide_border=true&ring=1D9E75&fire=185FA5&currStreakLabel=1D9E75" />
+</div>
 
 ---
 
-<p align="center">
-  <i>"Building, always building."</i>
-</p>
+## ⏱️ Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pemadecheb&hide_border=true&title_color=1D9E75&layout=compact"/>
+</div>
+
+---
+
+## 🌱 Currently Deepening
