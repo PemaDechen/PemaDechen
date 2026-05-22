@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:185FA5&height=200&section=header&text=Pema%20Dechen%20Bhutia&fontSize=40&fontColor=white&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%F0%9F%8F%94%EF%B8%8F%20Sikkim%2C%20India&descAlignY=55&descSize=18)
 
-[![GitHub followers](https://img.shields.io/github/followers/pemadecheb?label=Followers&style=social)](https://github.com/pemadecheb)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=pemadecheb&color=1D9E75&style=flat)](https://github.com/pemadecheb)
 
 </div>
